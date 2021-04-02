@@ -15,7 +15,7 @@ class Resume extends Component {
               <div className="row item">
                 <div className="twelve columns">
                   <div key="Middlesex County College">
-                      <h3>Middlesex  College"</h3>
+                      <h3>Middlesex  College</h3>
                       <p className="info">Associates Degree <span>&bull;</span><em className="date">Pending</em></p>
                       <p>Studying to get my bachelor's in Linguistics</p>
                     </div>
@@ -43,15 +43,15 @@ class Resume extends Component {
 
           <div className="nine columns main-col">
 
-              <p>Tech Skills leanred</p>
+              <p>Tech Skills learned</p>
 
             <ul className="skills">
+            <li key="javascript"><em>Javascript</em></li>
+            <li key="javascript"><em>React</em></li>
+            <li key="javascript"><em>Mongo</em></li>
+            {/* <li key="javascript"><em>javascript</em></li>
             <li key="javascript"><em>javascript</em></li>
-            <li key="javascript"><em>javascript</em></li>
-            <li key="javascript"><em>javascript</em></li>
-            <li key="javascript"><em>javascript</em></li>
-            <li key="javascript"><em>javascript</em></li>
-            <li key="javascript"><em>javascript</em></li>
+            <li key="javascript"><em>javascript</em></li> */}
             </ul>
         </div>
       </div>
