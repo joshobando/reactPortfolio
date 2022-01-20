@@ -14,7 +14,7 @@ class About extends Component {
          <div className="nine columns main-col">
             <h2>About Me</h2>
 
-            <p>My name is Joshua, I'm a Front End Developer. Currently looking for work .</p>
+            <p>My name is Joshua, I'm a Front End Developer. Currently looking for work.</p>
             <div className="row">
                <div className="columns contact-details">
                   <h2>Contact Details</h2>
