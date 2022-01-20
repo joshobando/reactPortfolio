@@ -21,7 +21,7 @@ const Contact = () => {
 
             <div className="ten columns">
 
-                  <p className="lead">Let's talk and see what happens</p>
+                  <p className="lead">Reach out!</p>
 
             </div>
 

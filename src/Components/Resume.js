@@ -30,7 +30,7 @@ class Resume extends Component {
           </div>
           <div className="nine columns main-col">
           <div key="UniQlo"><h3>UniQlo</h3>
-          <p className="info">Sales Associate<span>&bull;</span> <em className="date">1 year</em></p>
+          <p className="info">Sales Associate<span>&bull;</span> <em className="date">3 years</em></p>
           <p>Ensured customer satisfaction with effective service</p>
       </div>
       </div>
