@@ -48,7 +48,7 @@ class Resume extends Component {
             <ul className="skills">
             <li key="javascript"><em>Javascript</em></li>
             <li key="javascript"><em>React</em></li>
-            <li key="javascript"><em>Mongo</em></li>
+            <li key="javascript"><em>CSS</em></li>
             {/* <li key="javascript"><em>javascript</em></li>
             <li key="javascript"><em>javascript</em></li>
             <li key="javascript"><em>javascript</em></li> */}
