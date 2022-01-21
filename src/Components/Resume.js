@@ -14,10 +14,10 @@ class Resume extends Component {
           <div className="nine columns main-col">
               <div className="row item">
                 <div className="twelve columns">
-                  <div key="Middlesex County College">
-                      <h3>Middlesex  College</h3>
-                      <p className="info">Associates Degree <span>&bull;</span><em className="date">Pending</em></p>
-                      <p>Studying to get my bachelor's in Linguistics</p>
+                  <div key="Rutgers bootcamp">
+                      <h3>Rutgers Coding Bootcamp</h3>
+                      <p className="info">Full Stack Developer Certificate <span>&bull;</span><em className="date">2020</em></p>
+                      <p></p>
                     </div>
                 </div>
               </div>
@@ -29,7 +29,7 @@ class Resume extends Component {
               <h1><span>Work</span></h1>
           </div>
           <div className="nine columns main-col">
-          <div key="UniQlo"><h3>UniQlo</h3>
+          <div key="UniQlo"><h3>Uniqlo</h3>
           <p className="info">Sales Associate<span>&bull;</span> <em className="date">3 years</em></p>
           <p>Ensured customer satisfaction with effective service</p>
       </div>
@@ -46,9 +46,9 @@ class Resume extends Component {
               <p>Tech Skills learned</p>
 
             <ul className="skills">
+            <li key="javascript"><em>CSS</em></li>
             <li key="javascript"><em>Javascript</em></li>
             <li key="javascript"><em>React</em></li>
-            <li key="javascript"><em>CSS</em></li>
             {/* <li key="javascript"><em>javascript</em></li>
             <li key="javascript"><em>javascript</em></li>
             <li key="javascript"><em>javascript</em></li> */}
